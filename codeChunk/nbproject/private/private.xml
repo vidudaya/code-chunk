@@ -1,34 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?><project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
-    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
-        <file>file:/F:/CSE/vnb/Programming/GitCodes/codeChunk/CodeChunk/src/codechunk/CodeChunk.java</file>
-        <file>file:/F:/CSE/vnb/Programming/GitCodes/codeChunk/CodeChunk/src/algorithms/BFS.java</file>
-        <file>file:/F:/CSE/vnb/Programming/GitCodes/codeChunk/CodeChunk/src/algorithms/BinaryToDecimal.java</file>
-        <file>file:/F:/CSE/vnb/Programming/GitCodes/codeChunk/CodeChunk/src/algorithms/BridgeDetect.java</file>
-        <file>file:/F:/CSE/vnb/Programming/GitCodes/codeChunk/CodeChunk/src/algorithms/Calculate1sInBinaryFormOfInt.java</file>
-        <file>file:/F:/CSE/vnb/Programming/GitCodes/codeChunk/CodeChunk/src/algorithms/CheckIsPowerOfTwo.java</file>
-        <file>file:/F:/CSE/vnb/Programming/GitCodes/codeChunk/CodeChunk/src/algorithms/CheckPowerOfTwo.java</file>
-        <file>file:/F:/CSE/vnb/Programming/GitCodes/codeChunk/CodeChunk/src/algorithms/CoinChange.java</file>
-        <file>file:/F:/CSE/vnb/Programming/GitCodes/codeChunk/CodeChunk/src/algorithms/Combinations.java</file>
-        <file>file:/F:/CSE/vnb/Programming/GitCodes/codeChunk/CodeChunk/src/algorithms/Combinations_1.java</file>
-        <file>file:/F:/CSE/vnb/Programming/GitCodes/codeChunk/CodeChunk/src/algorithms/ConnectedComponent.java</file>
-        <file>file:/F:/CSE/vnb/Programming/GitCodes/codeChunk/CodeChunk/src/algorithms/ConnectedComponent2.java</file>
-        <file>file:/F:/CSE/vnb/Programming/GitCodes/codeChunk/CodeChunk/src/algorithms/ConnectedComponents3.java</file>
-        <file>file:/F:/CSE/vnb/Programming/GitCodes/codeChunk/CodeChunk/src/algorithms/DFS1.java</file>
-        <file>file:/F:/CSE/vnb/Programming/GitCodes/codeChunk/CodeChunk/src/algorithms/DFS_withTiming.java</file>
-        <file>file:/F:/CSE/vnb/Programming/GitCodes/codeChunk/CodeChunk/src/algorithms/DetectTheCycleOfAGraph.java</file>
-        <file>file:/F:/CSE/vnb/Programming/GitCodes/codeChunk/CodeChunk/src/algorithms/Dijikstra2.java</file>
-        <file>file:/F:/CSE/vnb/Programming/GitCodes/codeChunk/CodeChunk/src/algorithms/Dijkstra.java</file>
-        <file>file:/F:/CSE/vnb/Programming/GitCodes/codeChunk/CodeChunk/src/algorithms/EditDistanceDP.java</file>
-        <file>file:/F:/CSE/vnb/Programming/GitCodes/codeChunk/CodeChunk/src/algorithms/LongestCommonSubSequence.java</file>
-        <file>file:/F:/CSE/vnb/Programming/GitCodes/codeChunk/CodeChunk/src/algorithms/MaximumValueContiguousSubSequence.java</file>
-        <file>file:/F:/CSE/vnb/Programming/GitCodes/codeChunk/CodeChunk/src/algorithms/ModPow.java</file>
-        <file>file:/F:/CSE/vnb/Programming/GitCodes/codeChunk/CodeChunk/src/algorithms/NextLexicographicallyGreaterString.java</file>
-        <file>file:/F:/CSE/vnb/Programming/GitCodes/codeChunk/CodeChunk/src/algorithms/PowerOfTwoDetect.java</file>
-        <file>file:/F:/CSE/vnb/Programming/GitCodes/codeChunk/CodeChunk/src/algorithms/PrimeDetect.java</file>
-        <file>file:/F:/CSE/vnb/Programming/GitCodes/codeChunk/CodeChunk/src/algorithms/RandomNumberGenerator.java</file>
-        <file>file:/F:/CSE/vnb/Programming/GitCodes/codeChunk/CodeChunk/src/algorithms/WGB_DFS.java</file>
-        <file>file:/F:/CSE/vnb/Programming/GitCodes/codeChunk/CodeChunk/src/algorithms/ShortestPathBFS.java</file>
-        <file>file:/F:/CSE/vnb/Programming/GitCodes/codeChunk/CodeChunk/src/algorithms/getTheDepthofDFS_Tree.java</file>
-    </open-files>
 </project-private>
