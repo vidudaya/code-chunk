@@ -1,4 +1,4 @@
- 
+package algorithms; 
 
  
 import java.io.BufferedReader;

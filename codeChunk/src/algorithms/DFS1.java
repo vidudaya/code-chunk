@@ -1,4 +1,4 @@
- 
+package algorithms; 
 /*
  * to a undirected  graph this will give a solution to the reachability problem
  *  // can also check wheter the graph is connected or not.

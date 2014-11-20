@@ -1,4 +1,4 @@
- 
+package algorithms; 
 /**
  *
  * @author DELL
