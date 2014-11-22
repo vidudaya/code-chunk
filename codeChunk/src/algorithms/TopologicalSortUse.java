@@ -3,6 +3,10 @@ import java.io.*;
 import java.math.BigInteger;
 import java.util.*;
 
+/*
+ * https://www.hackerrank.com/contests/w12/challenges/favourite-sequence
+ */
+
 public class TopologicalSortUse {
 
     public static void main(String[] args) throws IOException {
@@ -50,11 +54,17 @@ public class TopologicalSortUse {
         for (int i = 1; i < inOrder.length; i++) {
             if (inOrder[i] == 0) {
                 sb.append(i + " ");
+                boolean now = false;
                 for (int f : list[i]) {
                     inOrder[f]--;
+                    if (inOrder[f] == 0 && f < i) {
+                        now = true;
+                    }
                 }
                 inOrder[i] = -1;
-                i = 0;
+                if (now) {
+                    i = 0;
+                }
             }
 //            System.out.println(sb.toString());
 //            System.out.println("i = " + i);
